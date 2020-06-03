@@ -93,5 +93,5 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "."
+  "homepage": "https://youthful-minsky-9fe1c3.netlify.app"
 }
